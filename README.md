@@ -2,14 +2,14 @@
 
 Une API RESTful pour gérer une base de données de films avec MongoDB, construite avec Spring Boot.
 
-## 🎯 Fonctionnalités
+##  Fonctionnalités
 
 - **Gestion des films** : CRUD complet pour les films
 - **Gestion des reviews** : Ajouter et consulter les avis sur les films
 - **Base de données MongoDB** : Utilisation de MongoDB Atlas pour le stockage
 - **API RESTful** : Endpoints clairs et documentés
 
-## 🛠️ Technologies Utilisées
+##  Technologies Utilisées
 
 - **Java 17**
 - **Spring Boot 4.0.2**
@@ -18,7 +18,7 @@ Une API RESTful pour gérer une base de données de films avec MongoDB, construi
 - **Maven**
 - **Lombok**
 
-## 📋 Prérequis
+##  Prérequis
 
 - Java 17 ou supérieur
 - Maven 3.6+
